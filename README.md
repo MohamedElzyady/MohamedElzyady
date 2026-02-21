@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm [Mohamed Elzyady], a Flutter Developer!<br><br>I build high-performance, beautiful cross-platform applications using Flutter & Dart. I'm obsessed with clean code, pixel-perfect UI, and efficient State Management (like Bloc/Provider/GetX).<br><br>📱 Currently working on: A mobile app <br><br>🛠️ Favorite Stack: Flutter + Firebase + Clean Architecture.<br><br>⚡ Fun fact: I spend more time naming my variables than actually coding them.<br><br>📫 Connect with me: [https://www.linkedin.com/in/mohamed-elzyady-a095bb2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+👋 Hi, I'm Mohamed Elzyady, a Flutter Developer!<br><br>I build high-performance, beautiful cross-platform applications using Flutter & Dart. I'm obsessed with clean code, pixel-perfect UI, and efficient State Management (like Bloc/Provider/GetX).<br><br>📱 Currently working on: A mobile app <br><br>🛠️ Favorite Stack: Flutter + Firebase + Clean Architecture.<br><br>⚡ Fun fact: I spend more time naming my variables than actually coding them.<br><br>📫 Connect with me: https://www.linkedin.com/in/mohamed-elzyady-a095bb2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 ## 🌐 Socials:
